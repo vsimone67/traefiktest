@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfS/DlikGB0z0xD/18B0VGHsxoxG3IkOrzVe4bPOtcRbG9L4CoKHJeabYNc3oQnjhLAPfcRl1+0TAitKtVmWtg==",
+  "success": true,
+  "projectFilePath": "D:\\VS2019\\PlayGround\\TraefikTest\\TraefikTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsimo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
