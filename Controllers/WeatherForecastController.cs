@@ -40,7 +40,7 @@ namespace TraefikTest.Controllers
         public async Task<IActionResult> GetWeather(string activeOnly)
         {
             await Task.FromResult(1);
-            return Ok("WHEW");
+            return Ok("MOO");
         }
     }
 }
