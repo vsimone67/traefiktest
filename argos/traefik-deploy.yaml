@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: traefiktest-pod
-          image: vsimone67/traefiktest:latest1
+          image: vsimone67/traefiktest:latest
           imagePullPolicy: "Always"
           ports:
             - name: web
