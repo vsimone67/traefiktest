@@ -50,8 +50,3 @@ spec:
       services:
         - name: traefiktest-svc
           port: 80
-    - match: Host(`traefiktest.titan`)
-      kind: Rule
-      services:
-        - name: traefiktest-svc
-          port: 80
